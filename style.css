@@ -1,0 +1,161 @@
+
+body{
+    background-color: rgb(207, 204, 204);
+}
+#one{
+    background-color: rgb(19, 96, 211);
+    border-radius: 10px;
+    
+
+    
+}
+.fi{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-left: 32%;
+    height: 50px;
+    margin-top: 11%;
+    font-weight:900;
+}
+.dash{
+    background-color: rgb(255, 254, 254);
+    border-radius: 10px;
+    height: 70px;
+    width: 250px;
+    font-weight:1000;
+    
+}
+.da{
+    font-size: 20px;
+    margin-left: 16%;
+    margin-top: 6%;
+    color: rgb(0, 102, 255);
+}
+.mash{
+    background-color: rgb(255, 255, 255);
+
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+   
+
+}
+.mor{
+   font-weight:700;
+}
+.mo{
+    font-size: 20px;
+    margin-left: 16%;
+    margin-top: 6%;
+    
+    color: rgb(19, 96, 211);
+    font-weight:1000;
+
+
+}
+.mashs{
+    background-color: rgb(255, 255, 255);
+
+    border-radius: 10px;
+    height: 400px;
+    width: 200px;
+    
+
+}
+.mos{
+    font-size: 20px;
+    margin-left: 16%;
+    margin-top: 6%;
+    color: hwb(216 7% 17%);
+    font-weight:1000;
+
+
+}
+.fis{
+    color: rgb(255, 251, 251);
+    margin-left: 10%;
+    height: 50px;
+    margin-top: 11%;
+    font-weight:400;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+
+    
+}
+
+.fis:hover{
+    background-color: white;
+    color: rgb(19, 96, 211);
+    cursor: pointer;
+    font-size: 22;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+#two{
+    
+    height: 735px;
+    background-color: #f5f5f5;
+
+}
+#three{
+   
+    background-color: #f5f5f5;
+
+
+    
+    height: 735px;
+}
+.left{
+    
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(92, 86, 86);
+    background-color: rgb(196, 190, 183);
+    
+    
+}
+.wel{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    
+    color: rgb(19, 96, 211);
+    margin-left: 2%;
+    font-weight: 900;
+    
+}
+.in{
+    
+    border-radius: 200px ;
+    margin-left: 32%;
+    width: 250px;
+    border: solid 1px black;
+}
+.welb{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+   
+}
+.card{
+    width: 600px;
+    height: 290px;
+    background-color: aqua;
+    border-radius: 200px;
+
+}
+img{
+    height: 290px;
+    width: 10px;
+    border-radius: 10px;                                                                                                                                                                                              
+}
+
+
+.imgs:hover{
+    cursor: pointer;
+
+}

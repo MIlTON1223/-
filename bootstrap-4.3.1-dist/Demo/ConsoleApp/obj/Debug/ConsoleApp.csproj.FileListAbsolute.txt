@@ -1,0 +1,6 @@
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\DotCalculator\bin\Debug\DotCalculator.exe.config
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\DotCalculator\bin\Debug\DotCalculator.exe
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\DotCalculator\bin\Debug\DotCalculator.pdb
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\DotCalculator\obj\Debug\DotCalculator.exe
+C:\Users\HENRY NDEH\Desktop\Bootstrap\bootstrap-4.3.1-dist\Demo\DotCalculator\obj\Debug\DotCalculator.pdb
